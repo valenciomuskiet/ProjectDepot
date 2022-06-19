@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5fDMEfMmDDtJnpgX5aTvZUYwzsozt78ybJchmatyhcVChflT4XQXbEqTC/9uFllFhYLqu7k8recOn3cOH5vrHA==",
+  "dgSpecHash": "3rBu78Z/yvkVMNtMy4oHRhsa02HkSebd4GEmsIAeKK3Gm+eUY5duj0uPGqK1178oGGIf9mLWXkyf+5rrqX+IxQ==",
   "success": true,
-  "projectFilePath": "/Users/valenciomuskiet/Documents/githubprojectdepot/ProjectDepot/ProjectDepot/ProjectDepot.csproj",
+  "projectFilePath": "/Users/valenciomuskiet/Documents/githubprojectdepot/ProjectDepot/githubprojectdepot/ProjectDepot/ProjectDepot/ProjectDepot.csproj",
   "expectedPackageFiles": [
     "/Users/valenciomuskiet/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
     "/Users/valenciomuskiet/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",

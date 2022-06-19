@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/valenciomuskiet/Documents/githubprojectdepot/ProjectDepot/ProjectDepot/ProjectDepot.csproj",
+      "projectUniqueName": "/Users/valenciomuskiet/Documents/githubprojectdepot/ProjectDepot/githubprojectdepot/ProjectDepot/ProjectDepot/ProjectDepot.csproj",
       "projectName": "ProjectDepot",
-      "projectPath": "/Users/valenciomuskiet/Documents/githubprojectdepot/ProjectDepot/ProjectDepot/ProjectDepot.csproj",
+      "projectPath": "/Users/valenciomuskiet/Documents/githubprojectdepot/ProjectDepot/githubprojectdepot/ProjectDepot/ProjectDepot/ProjectDepot.csproj",
       "packagesPath": "/Users/valenciomuskiet/.nuget/packages/",
-      "outputPath": "/Users/valenciomuskiet/Documents/githubprojectdepot/ProjectDepot/ProjectDepot/obj/",
+      "outputPath": "/Users/valenciomuskiet/Documents/githubprojectdepot/ProjectDepot/githubprojectdepot/ProjectDepot/ProjectDepot/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/valenciomuskiet/.nuget/NuGet/NuGet.Config"
